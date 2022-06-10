@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798050748289",
+    "project_id": "msg-vcard",
+    "storage_bucket": "msg-vcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798050748289:android:c2abfe4997171811bd4a80",
+        "android_client_info": {
+          "package_name": "com.msg_vcard_app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798050748289-avfh3sm1d549ockm4lf3dm8rgb8kn9m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqdyFjj9LMrY-9l-ucd0l2UiGfNolIw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798050748289-avfh3sm1d549ockm4lf3dm8rgb8kn9m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
