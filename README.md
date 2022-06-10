@@ -1,11 +1,11 @@
 # Build Action
 
-cd android
+cd android<br>
 .\gradlew clean
-.\gradlew assembleRelease
-.\gradlew bundleRelease
-cd ..
-npx react-native run-android --variant=release
-OPEN PROJECT WITH ANDROID STUDIO
-Sync Project With gradle files
-Go To Build -> Generate Signed Bundle / APK 
+.\gradlew assembleRelease<br>
+.\gradlew bundleRelease<br>
+cd ..<br>
+npx react-native run-android --variant=release<br>
+OPEN PROJECT WITH ANDROID STUDIO<br>
+Sync Project With gradle files<br>
+Go To Build -> Generate Signed Bundle / APK <br>
